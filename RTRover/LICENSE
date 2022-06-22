@@ -1,0 +1,87 @@
+License PPP-Wizard-User version 1.3 (2016/02/15)
+
+
+1 – Preamble
+
+
+This license is to establish the conditions, under which you may use, modify and distribute the SOFTWARE. However CNES remains the author of the SOFTWARE and retains the enjoyment and use of all rights attached thereto.
+
+
+2 – Definition
+
+
+The SOFTWARE is constituted by all successive versions of PPP-Wizard-User software and documentation developed by CNES. The latest version is : PPP-Wizard-User Version 1.2 (January 30, 2015).
+
+The PPP-Wizard-User DERIVATIVE SOFTWARE consists of all or part of SOFTWARE you modified and/or translated and/or adapted.
+
+The PPP-Wizard-User COMPOSITE SOFTWARE consists of all or part of the SOFTWARE that you have interfaced with software, a software package or a toolbox that you own or assign.
+
+
+3 - Purpose and conditions of the SOFTWARE license
+
+
+a)	CNES allows you, free of charge, to reproduce, on all present and future support, source code and/or object code of the SOFTWARE without restriction, provided that appears in all copies the mention of the following copyright : ‘PPP-Wizard- user (c) CNES’.
+
+b)	CNES allows you, free of charge, to fix any bugs, to make the changes required for SOFTWARE porting, and make any changes or usual functional correction provided that you insert a patch file, or you indicate by any equivalent means, the nature and date of the amendment or correction on the concerned SOFTWARE file(s).
+
+c)	CNES allows you, free of charge, to use the source code and/or object code of the SOFTWARE without restriction, provided that appears in all copies the mention of the following copyright : PPP-Wizard-User (c) CNES.
+
+d)	CNES allows you to disseminate and distribute, free of charge, source code and/or object code of the SOFTWARE on any present and future support, provided that :
+	you include on all copies the following copyright notice :
+“PPP-Wizard-User (c) CNES” ;
+	you disseminate or distribute the SOFTWARE under the terms of this license.
+	you disseminate, free of charge, the patch files, or files containing equivalent informations about the nature and date of the amendment/correction to the concerned SOFTWARE file(s).
+
+e)	Any commercial use or commercial distribution of the SOFTWARE must be authorized by CNES.
+
+
+4 - Purpose and conditions of the license covering the SOFTWARE DERIVATIVES
+
+
+a)	CNES allows you, free of charge, to reproduce, and modify, and/or translate, and/or adapt all or part of the source code and/or object code of the SOFTWARE, provided that you insert a patch file indicating the date and the nature of the modification, and/or translation, and/or adaptation and the name of their authors on the SOFTWARE file(s) concerned. The modified SOFTWARE constitutes DERIVATIVES SOFTWARE. CNES allows you, free of charge, to use the source code and/or object code of the SOFTWARE without restriction, provided that appears in all copies the mention of the following copyright : PPP-Wizard-User (c) CNES.
+
+b)	CNES allows, free of charge, to use the source code and/or object code of the SOFTWARE modified under Article 4-a) above, without restriction, provided that appears in all copies the copyright notice next: PPP-Wizard-User (c) CNES.
+
+c)	CNES allows you, free of charge, to disseminate and distribute, free of charge for non-commercial purposes, the source code and/or object code of the SOFTWARE DERIVATIVES on any present and future support, provided that you :
+	state clearly "PPP-Wizard (c) CNES";
+	distribute DERIVATIVE SOFTWARE under this License;
+	allow recipients to access to the source code of the SOFTWARE
+	distribute DERIVATIVE SOFTWARE under a name other than PPP-Wizard-User.
+
+d)	Any commercial use or commercial distribution of DERIVATIVE SOFTWARE must be authorized by CNES.
+
+
+5	- Purpose and conditions of the license covering the COMPOSITE SOFTWARE
+
+
+a)	CNES allows you to reproduce and make the interface of all or part of the SOFTWARE, with all or part of other software packages or toolboxes which you are owners or holders, in order to obtain COMPOSITE SOFTWARE.
+
+b)	CNES allows you, free of charge, to use the source code and/or object code of the SOFTWARE included in COMPOSITE SOFTWARE, without restriction, provided that appears in all copies the mention of the following copyright : "composite software using features PPP-Wizard-User (c) CNES "
+
+c)	CNES allows you, free of charge, to disseminate and distribute, free of charge for non-commercial purposes, source code and/or object code of COMPOSITE SOFTWARE on any present and future support, provided that you :
+	state clearly "composite software using features of PPP-Wizard-User (c) CNES ";
+	distribute the SOFTWARE included in COMPOSITE SOFTWARE under this License;
+	allow recipients to access to the source code of the SOFTWARE;
+	distribute COMPOSITE SOFTWARE under a name other than PPP-Wizard-User.
+
+d)	Any commercial use or distribution of COMPOSITE SOFTWARE must be authorized by CNES.
+
+
+6	- Limited Warranty
+
+
+Unless otherwise agreed in writing, the SOFTWARE is provided as is without any express or implied warranties, including warranties of merchantability or fitness. You assume the entire risk as to the quality or the effects of the SOFTWARE and use. If the SOFTWARE is defective, you assume the cost of all necessary servicing, repair or correction.
+
+
+7- Effect Required
+
+
+This license has the binding value of a contract.
+
+You are responsible for compliance with the license by a third party.
+
+
+8 - Governing Law
+
+
+This license and its effects are subject to French law and the competent French courts.
